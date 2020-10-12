@@ -1,0 +1,4 @@
+Augmentation Level,Mean Score,Number of classes above random
+No Augmentation,0.512,7
+Basic Augmentation,0.502,8
+Complex Augmentation,0.514,9
